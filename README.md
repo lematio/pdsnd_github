@@ -13,5 +13,5 @@ Required softwares:
 Python A text editor, like Atom or Sublime and a terminal application
 
 ### Credits
-Credits goes to Udacity Student Studyhub that helped me alot to complete this project
+Credits goes to Udacity classroom that helped me alot to complete this project.
 
