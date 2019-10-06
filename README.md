@@ -15,3 +15,4 @@ Python A text editor, like Atom or Sublime and a terminal application.
 ### Credits
 Credits goes to Udacity classroom that helped me alot to complete this project.
 
+### Author
