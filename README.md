@@ -16,3 +16,4 @@ Python A text editor, like Atom or Sublime and a terminal application.
 Credits goes to Udacity classroom that helped me alot to complete this project.
 
 ### Author
+- [Lematio](https://github.com/lematio)
